@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"Jivc_9WEQx\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h1\\\"><b>IT Ticket Department</b></span>\",\"col\":12}},{\"id\":\"-D6bTo-XRw\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"IT Dashboard\",\"col\":12}}]",
+ "content": "[{\"id\":\"-D6bTo-XRw\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"IT Dashboard\",\"col\":12}}]",
  "creation": "2022-12-22 14:13:19.148126",
  "custom_blocks": [
   {
@@ -17,7 +17,7 @@
  "is_hidden": 0,
  "label": "IT Executives",
  "links": [],
- "modified": "2025-07-02 17:44:53.048357",
+ "modified": "2025-07-02 17:51:24.735451",
  "modified_by": "Administrator",
  "module": "Sahayog Ticket",
  "name": "IT Executives",
